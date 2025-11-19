@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Daten
+data/raw/
+data/processed/
+data/exports/
+
+# OS-Dateien
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Sonstiges
+*.sqlite
+*.db
